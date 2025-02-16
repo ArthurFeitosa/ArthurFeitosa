@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Engineer with 4 years of experience in data-intensive applications, cost optimization, and data quality solutions.
+Software Engineer with 5 years of experience in data-intensive applications, cost optimization, and data quality solutions.
 Proven track record of reducing costs by 60% and improving system reliability at Nubank, Latin America's largest digital
 bank. Experienced in collaborating with multi-country teams to deliver scalable data solutions and optimize workflows in
 diverse environments.
